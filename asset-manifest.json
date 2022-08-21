@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Pavel_Belousov_CV/static/css/main.781c3127.css",
+    "main.js": "/Pavel_Belousov_CV/static/js/main.9610088b.js",
+    "static/media/me-03.png": "/Pavel_Belousov_CV/static/media/me-03.e67efd3db513cd8f6742.png",
+    "static/media/me-05.jpg": "/Pavel_Belousov_CV/static/media/me-05.f1ff765fe3afd6b8a92d.jpg",
+    "static/media/Pavel_Belousov_CV.pdf": "/Pavel_Belousov_CV/static/media/Pavel_Belousov_CV.91ba9b3e6a6362c35a79.pdf",
+    "static/media/portfolio-1.jpg": "/Pavel_Belousov_CV/static/media/portfolio-1.bf78989394c1cafee392.jpg",
+    "static/media/portfolio-4.jpg": "/Pavel_Belousov_CV/static/media/portfolio-4.eaaae18b9a932eb20cf6.jpg",
+    "static/media/portfolio-5.jpg": "/Pavel_Belousov_CV/static/media/portfolio-5.be4064ca2c52e7f6e52e.jpg",
+    "static/media/portfolio-6.jpg": "/Pavel_Belousov_CV/static/media/portfolio-6.aa103c7d5ea5c5ad95db.jpg",
+    "static/media/portfolio-2.jpg": "/Pavel_Belousov_CV/static/media/portfolio-2.5be80967687d45eba011.jpg",
+    "static/media/portfolio-3.jpg": "/Pavel_Belousov_CV/static/media/portfolio-3.f66167ea51b1bc33351e.jpg",
+    "index.html": "/Pavel_Belousov_CV/index.html",
+    "main.781c3127.css.map": "/Pavel_Belousov_CV/static/css/main.781c3127.css.map",
+    "main.9610088b.js.map": "/Pavel_Belousov_CV/static/js/main.9610088b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.781c3127.css",
+    "static/js/main.9610088b.js"
+  ]
+}
