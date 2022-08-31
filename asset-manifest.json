@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/Pavel_Belousov_CV/static/css/main.781c3127.css",
-    "main.js": "/Pavel_Belousov_CV/static/js/main.9610088b.js",
-    "static/media/me-03.png": "/Pavel_Belousov_CV/static/media/me-03.e67efd3db513cd8f6742.png",
-    "static/media/me-05.jpg": "/Pavel_Belousov_CV/static/media/me-05.f1ff765fe3afd6b8a92d.jpg",
+    "main.css": "/Pavel_Belousov_CV/static/css/main.1f1de578.css",
+    "main.js": "/Pavel_Belousov_CV/static/js/main.4b9646b6.js",
     "static/media/Pavel_Belousov_CV.pdf": "/Pavel_Belousov_CV/static/media/Pavel_Belousov_CV.91ba9b3e6a6362c35a79.pdf",
-    "static/media/portfolio-1.jpg": "/Pavel_Belousov_CV/static/media/portfolio-1.bf78989394c1cafee392.jpg",
-    "static/media/portfolio-4.jpg": "/Pavel_Belousov_CV/static/media/portfolio-4.eaaae18b9a932eb20cf6.jpg",
-    "static/media/portfolio-5.jpg": "/Pavel_Belousov_CV/static/media/portfolio-5.be4064ca2c52e7f6e52e.jpg",
-    "static/media/portfolio-6.jpg": "/Pavel_Belousov_CV/static/media/portfolio-6.aa103c7d5ea5c5ad95db.jpg",
-    "static/media/portfolio-2.jpg": "/Pavel_Belousov_CV/static/media/portfolio-2.5be80967687d45eba011.jpg",
-    "static/media/portfolio-3.jpg": "/Pavel_Belousov_CV/static/media/portfolio-3.f66167ea51b1bc33351e.jpg",
+    "static/media/me-05.webp": "/Pavel_Belousov_CV/static/media/me-05.cbc0fe11017daa396596.webp",
+    "static/media/me-03.webp": "/Pavel_Belousov_CV/static/media/me-03.c3a5afa78cb60936a19b.webp",
+    "static/media/portfolio-1.webp": "/Pavel_Belousov_CV/static/media/portfolio-1.8aef255896851802ced2.webp",
+    "static/media/portfolio-4.webp": "/Pavel_Belousov_CV/static/media/portfolio-4.75bdb5dc44d6a3f2f02d.webp",
+    "static/media/portfolio-5.webp": "/Pavel_Belousov_CV/static/media/portfolio-5.1e75c41f88960112203d.webp",
+    "static/media/portfolio-6.webp": "/Pavel_Belousov_CV/static/media/portfolio-6.a62241f5e5a375be7049.webp",
+    "static/media/portfolio-2.webp": "/Pavel_Belousov_CV/static/media/portfolio-2.32c028b25882e3b6e3ea.webp",
+    "static/media/portfolio-3.webp": "/Pavel_Belousov_CV/static/media/portfolio-3.5a3f8540d0cfd1b0b900.webp",
     "index.html": "/Pavel_Belousov_CV/index.html",
-    "main.781c3127.css.map": "/Pavel_Belousov_CV/static/css/main.781c3127.css.map",
-    "main.9610088b.js.map": "/Pavel_Belousov_CV/static/js/main.9610088b.js.map"
+    "main.1f1de578.css.map": "/Pavel_Belousov_CV/static/css/main.1f1de578.css.map",
+    "main.4b9646b6.js.map": "/Pavel_Belousov_CV/static/js/main.4b9646b6.js.map"
   },
   "entrypoints": [
-    "static/css/main.781c3127.css",
-    "static/js/main.9610088b.js"
+    "static/css/main.1f1de578.css",
+    "static/js/main.4b9646b6.js"
   ]
 }
