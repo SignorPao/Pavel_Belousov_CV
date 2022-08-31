@@ -1,9 +1,9 @@
-import IMG1 from "../assets/portfolio-1.jpg";
-import IMG2 from "../assets/portfolio-2.jpg";
-import IMG3 from "../assets/portfolio-3.jpg";
-import IMG4 from "../assets/portfolio-4.jpg";
-import IMG5 from "../assets/portfolio-5.jpg";
-import IMG6 from "../assets/portfolio-6.jpg";
+import IMG1 from "../assets/portfolio-1.webp";
+import IMG2 from "../assets/portfolio-2.webp";
+import IMG3 from "../assets/portfolio-3.webp";
+import IMG4 from "../assets/portfolio-4.webp";
+import IMG5 from "../assets/portfolio-5.webp";
+import IMG6 from "../assets/portfolio-6.webp";
 
 export const portfolioItems = [
   {

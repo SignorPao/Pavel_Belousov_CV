@@ -1,7 +1,7 @@
-import AVTR1 from "../assets/avatar1.jpg";
-import AVTR2 from "../assets/avatar2.jpg";
-import AVTR3 from "../assets/avatar3.jpg";
-import AVTR4 from "../assets/avatar4.jpg";
+import AVTR1 from "../assets/avatar1.webp";
+import AVTR2 from "../assets/avatar2.webp";
+import AVTR3 from "../assets/avatar3.webp";
+import AVTR4 from "../assets/avatar4.webp";
 
 export const testimonialsItems = [
   {
